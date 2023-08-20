@@ -18,15 +18,16 @@ For this project, I have been tasked to develop a microcontroller system that ca
 - Light-bulb, motor
 
 ### Microcontroller board front
+<img src="Photos/front.jpg" alt="Front" width="800" height="600"><br/>
 
 ### Microcontroller board back
 <img src="Photos/back.jpg" alt="Back" width="650" height="600"><br/>
 
 ### Oxygen & water quality display
-
+<img src="Photos/lcd.jpg" alt="OxyWater" width="800" height="600"><br/>
 
 ### Aerating
-
+<img src="Photos/aerate.jpg" alt="Aerating" width="800" height="600"><br/>
 
 ### Temperature
 <img src="Photos/tempgood.jpg" alt="Temperature" width="800" height="600"><br/>

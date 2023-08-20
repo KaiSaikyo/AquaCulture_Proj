@@ -20,9 +20,13 @@ For this project, I have been tasked to develop a microcontroller system that ca
 ### Microcontroller board front
 
 ### Microcontroller board back
+<img src="Photos/back.jpg" alt="Back" width="650" height="600"><br/>
 
 ### Oxygen & water quality display
 
+
 ### Aerating
 
+
 ### Temperature
+<img src="Photos/tempgood.jpg" alt="Temperature" width="800" height="600"><br/>

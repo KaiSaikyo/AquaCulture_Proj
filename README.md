@@ -17,4 +17,12 @@ For this project, I have been tasked to develop a microcontroller system that ca
 - Speaker
 - Light-bulb, motor
 
-### 
+### Microcontroller board front
+
+### Microcontroller board back
+
+### Oxygen & water quality display
+
+### Aerating
+
+### Temperature

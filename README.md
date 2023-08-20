@@ -20,10 +20,10 @@ To simulate fish farming in Singapore, the target board will monitor the tempera
 - Speaker
 - Light-bulb, motor
 
-### Microcontroller board front
+### Microcontroller front
 <img src="Photos/front.jpg" alt="Front" width="800" height="600"><br/>
 
-### Microcontroller board back
+### Microcontroller back
 <img src="Photos/back.jpg" alt="Back" width="650" height="600"><br/>
 
 ### Oxygen & water quality display

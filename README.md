@@ -16,3 +16,5 @@ For this project, I have been tasked to develop a microcontroller system that ca
 - 16 by 2 LCD
 - Speaker
 - Light-bulb, motor
+
+### 

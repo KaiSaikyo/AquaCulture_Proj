@@ -41,3 +41,6 @@ As part of a collaborative group project, I implemented the following features f
 
 ### Temperature
 <img src="Photos/tempgood.jpg" alt="Temperature" width="800" height="600"><br/>
+
+### Video Link
+https://drive.google.com/file/d/1ZfElOI534iqJxgFm5Le1z0mbQcFXE9Tx/view?usp=sharing
